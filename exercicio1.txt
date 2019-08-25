@@ -1,0 +1,24 @@
+1 - Semelhanças e diferenças entre Haskell, Python e Java:
+
+Haskell é uma linguagem de programação puramente funcional. Seu código é escrito usando funções.
+Java é uma linguagem puramente orientada a objetos. Seu código é escrito utilizando classes.
+Python é uma linguagem multi-paradigma. Em python embora sua arquitetura seja orientada a objetos é possivel escrever
+codigo estruturado e funcional.
+
+O Haskell e o Java possuem variáveis estaticamente tipadas enquanto python possui tipagem dinamica
+
+As tres linguagens são amplamente utilizadas no mercado e no meio academico, possuem comunidades fortes e ativas
+
+
+
+2 - Geralmente Cria programas orientados ou estruturados?
+
+Embora os codigos estruturados possam ser menores, geralmente crio programas orientados a objetos porque se aproximam
+mais da forma de pensar e são melhores de rever.
+
+3 - Discorra sobre a afirmaçao de Larry Flon:
+
+Quando ele diz que não há nem haverá linguagem que impeça os programadores de escrever maus programas ele está certo
+porque as boas praticas de programação, a preocupaçao com a legibilidade e manutenabilidade do código parte de quem o
+escreve e não de amarrações estruturais da linguagem. O código escrito faz parta da individualidade do programador, logo
+reflete sua forma de transmitir seus pensamentos.
